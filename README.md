@@ -8,3 +8,6 @@ https://www.figma.com/file/21GjkDgTHMbiamrcIM6HWH/BuildAI-GRAE?node-id=0%3A1
 
 form submission
 https://docs.google.com/forms/d/1qB1T3j-G_tNL-veXmHmm-1jB6TqLlNQAqwe1wx5D0DI/edit
+
+colab
+https://colab.research.google.com/drive/1nCbXaNL9pcLMmC_xcneNdHGPAA2ZxSfd?usp=sharing
